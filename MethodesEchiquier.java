@@ -1,6 +1,6 @@
 package Jeux;
 
-
+// Interface avec prototypes des methodes que devra implementer un echiquier
 public interface MethodesEchiquier 
 {
     public abstract void debuter();
